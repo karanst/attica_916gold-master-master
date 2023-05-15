@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1060404552811-bkv6ak0ev7c8f4er03fj3ai30i9mjjv9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1060404552811-bkv6ak0ev7c8f4er03fj3ai30i9mjjv9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDYJhkik3lpAdmP_VZBClAtp66nZH8L2f0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1060404552811</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.atticagold.user</string>
+	<key>PROJECT_ID</key>
+	<string>digitalgold-7e839</string>
+	<key>STORAGE_BUCKET</key>
+	<string>digitalgold-7e839.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1060404552811:ios:d9745f5f954f873996bd2e</string>
+</dict>
+</plist>
